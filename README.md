@@ -9,8 +9,9 @@ source venv/bin/activate
 ```
 
 # Install application:
+``` bash
 python3 setup.py install
-
+```
 # Run application
 ``` bash
 python3 /app/main.py
