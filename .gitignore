@@ -1,5 +1,5 @@
 *.vscode
 build/*
 dist
-gt_mon.egg-info
+app.egg-info
 *__pycache__
