@@ -1,0 +1,5 @@
+*.vscode
+build/*
+dist
+gt_mon.egg-info
+*__pycache__
